@@ -46,8 +46,8 @@ pip install -e .
 
 ### Object Category Recognition Results
 
-<img src="figs/OCRR.jpg" alt="drawing" width="900px"/>
+<img src="figs/OCRR.jpg" alt="drawing" width="500px"/>
 
 ### Fetch Object Results
 
-<img src="figs/FOTR.png" alt="drawing" width="900px"/>
+<img src="figs/FOTR.png" alt="drawing" width="500px"/>
