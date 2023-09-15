@@ -1,0 +1,553 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: pasta_cremette
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch toy ball}
+  target_object_name: metal_flower_cylinder
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch toy noodle}
+  target_object_name: metal_flower_cylinder
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_chili, distractor_object_query: fetch container
+      canned food}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: tin_pokemon
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch toy ball}
+  target_object_name: pasta_cremette
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: can_arizona
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch toy noodle}
+  target_object_name: cup_blue
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: tupperware_coffee_beans
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: fetch container cup}
+  target_object_name: ball_base
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: tin_pokemon
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_blue, distractor_object_query: fetch container
+      egg coloring cup}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch toy ball}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch toy ball}
+  target_object_name: tupperware_coffee_beans
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_arizona, distractor_object_query: fetch container can}
+  target_object_name: ball_base
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch toy ball}
+  target_object_name: medicine_ampicillin
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: fetch container bottle}
+  target_object_name: bigstuffedanimal_bear
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_pokemon, distractor_object_query: fetch container tin}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch toy noodle}
+  target_object_name: metal_flower_cylinder
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: ball_basket, distractor_object_query: fetch toy ball}
+  target_object_name: tupperware_ground_coffee
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch container bottle}
+  target_object_name: noodle_2
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: pasta_macaroni
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: can_coke
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_cowboy_cookout, distractor_object_query: fetch
+      container canned food}
+  target_object_name: smallstuffedanimal_chick
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch toy noodle}
+  target_object_name: weight_2
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_isu, distractor_object_query: fetch container cup}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch container
+      medicine}
+  target_object_name: ball_basket
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch container
+      tupperware}
+  target_object_name: ball_basket
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch container bottle}
+  target_object_name: noodle_2
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch toy noodle}
+  target_object_name: metal_food_can
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: fetch container metal}
+  target_object_name: noodle_2
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: cup_isu
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_isu, distractor_object_query: fetch container cup}
+  target_object_name: noodle_2
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_basket, distractor_object_query: fetch toy ball}
+  target_object_name: bottle_google
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch container bottle}
+  target_object_name: noodle_2
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_poker, distractor_object_query: fetch container tin}
+  target_object_name: noodle_2
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch toy noodle}
+  target_object_name: eggcoloringcup_green
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: fetch container metal}
+  target_object_name: noodle_2
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_poker, distractor_object_query: fetch container tin}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: basket_green
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_large, distractor_object_query: fetch container
+      can}
+  target_object_name: bigstuffedanimal_frog
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch toy noodle}
+  target_object_name: bottle_green
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_blue, distractor_object_query: fetch toy ball}
+  target_object_name: tin_snack_depot
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: tin_snack_depot
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      toy small stuffed animal}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch toy noodle}
+  target_object_name: cannedfood_soup
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_blue, distractor_object_query: fetch toy ball}
+  target_object_name: eggcoloringcup_orange
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      toy small stuffed animal}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_blue, distractor_object_query: fetch toy ball}
+  target_object_name: metal_mix_covered_cup
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch toy noodle}
+  target_object_name: medicine_bilberry_extract
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      toy small stuffed animal}
+  target_object_name: tupperware_marbles
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      toy small stuffed animal}
+  target_object_name: medicine_bilberry_extract
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch toy noodle}
+  target_object_name: basket_green
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: fetch container
+      tupperware}
+  target_object_name: noodle_3
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      toy small stuffed animal}
+  target_object_name: tupperware_marbles
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch container basket}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: fetch container bottle}
+  target_object_name: bigstuffedanimal_frog
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch toy noodle}
+  target_object_name: cup_metal
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch container
+      metal}
+  target_object_name: bigstuffedanimal_frog
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: fetch container
+      egg coloring cup}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: tupperware_pasta
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: fetch container bottle}
+  target_object_name: smallstuffedanimal_moose
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: fetch toy noodle}
+  target_object_name: cannedfood_tomato_paste
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: fetch toy noodle}
+  target_object_name: cup_paper_green
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: bottle_red
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: weight_4
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_pipette, distractor_object_query: fetch container pasta}
+  target_object_name: smallstuffedanimal_moose
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: medicine_calcium
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: fetch container weight
+      container}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: fetch container
+      cup}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch toy ball}
+  target_object_name: cannedfood_tomato_paste
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: fetch
+      toy big stuffed animal}
+  target_object_name: basket_handle
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snowman, distractor_object_query: fetch container tin}
+  target_object_name: ball_transparent
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: eggcoloringcup_pink
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: fetch toy noodle}
+  target_object_name: weight_4
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: tin_snowman
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: fetch toy noodle}
+  target_object_name: cup_paper_green
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snowman, distractor_object_query: fetch container tin}
+  target_object_name: smallstuffedanimal_moose
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: fetch
+      toy big stuffed animal}
+  target_object_name: bottle_red
+  target_query: bring an object that is container
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch container bottle}
+  target_object_name: ball_yellow_purple
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch container
+      basket}
+  target_object_name: noodle_5
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: fetch toy noodle}
+  target_object_name: bottle_sobe
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: can_starbucks
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: basket_semicircle
+  target_query: get an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch toy
+      small stuffed animal}
+  target_object_name: can_starbucks
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: medicine_flaxseed_oil
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch container
+      basket}
+  target_object_name: smallstuffedanimal_otter
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: basket_semicircle
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: fetch container
+      canned food}
+  target_object_name: ball_yellow_purple
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_flaxseed_oil, distractor_object_query: fetch container
+      medicine}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_tea, distractor_object_query: fetch container tin}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: cup_yellow
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch container bottle}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: get an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_flaxseed_oil, distractor_object_query: fetch container
+      medicine}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: fetch an object that is toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: fetch toy ball}
+  target_object_name: tin_tea
+  target_query: bring an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch container bottle}
+  target_object_name: noodle_5
+  target_query: bring an object that is plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: fetch toy noodle}
+  target_object_name: eggcoloringcup_yellow
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch toy
+      big stuffed animal}
+  target_object_name: pasta_rotini
+  target_query: fetch an object that is container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: fetch container weight
+      container}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: fetch an object that is toy
+  target_sound_behavior: null

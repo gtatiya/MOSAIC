@@ -1,0 +1,544 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch small
+      small stuffed animal}
+  target_object_name: pvc_1
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_pokemon, distractor_object_query: 'fetch large, tall tin'}
+  target_object_name: egg_cardboard
+  target_query: get an object that is pocket-sized
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch short noodle}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch small ball}
+  target_object_name: metal_flower_cylinder
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: fetch small egg}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is big
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch tall weight container}
+  target_object_name: eggcoloringcup_blue
+  target_query: bring an object that is little
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_coffee_beans, distractor_object_query: fetch short
+      tupperware}
+  target_object_name: eggcoloringcup_blue
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch big
+      big stuffed animal}
+  target_object_name: can_arizona
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: fetch tall bottle}
+  target_object_name: bigstuffedanimal_bear
+  target_query: bring an object that is magnanimous
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: fetch small egg}
+  target_object_name: tupperware_coffee_beans
+  target_query: bring an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: fetch big basket}
+  target_object_name: medicine_ampicillin
+  target_query: get an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: fetch big basket}
+  target_object_name: ball_base
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_pokemon, distractor_object_query: 'fetch large, tall tin'}
+  target_object_name: egg_cardboard
+  target_query: get an object that is pocket-sized
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch big
+      big stuffed animal}
+  target_object_name: medicine_ampicillin
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_coffee_beans, distractor_object_query: fetch short
+      tupperware}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_1, distractor_object_query: 'fetch small, short cone'}
+  target_object_name: weight_1
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: fetch big basket}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch tall weight container}
+  target_object_name: eggcoloringcup_blue
+  target_query: get an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: fetch big basket}
+  target_object_name: pvc_1
+  target_query: bring an object that is minuscule
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch tall weight container}
+  target_object_name: egg_cardboard
+  target_query: bring an object that is minuscule
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_green, distractor_object_query: 'fetch small,
+      short egg coloring cup'}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: bring an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch short bottle}
+  target_object_name: eggcoloringcup_green
+  target_query: bring an object that is minuscule
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: fetch tall pasta}
+  target_object_name: can_coke
+  target_query: bring an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_2, distractor_object_query: 'fetch small, short pvc pipe'}
+  target_object_name: pasta_macaroni
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: 'fetch small, short
+      medicine'}
+  target_object_name: basket_funnel
+  target_query: bring an object that is magnanimous
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch tall weight container}
+  target_object_name: eggcoloringcup_green
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch big,
+      large big stuffed animal'}
+  target_object_name: noodle_2
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch short noodle}
+  target_object_name: pvc_2
+  target_query: bring an object that is minor
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: fetch tall pasta}
+  target_object_name: pvc_2
+  target_query: bring an object that is minuscule
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_funnel, distractor_object_query: fetch big basket}
+  target_object_name: pasta_macaroni
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_2, distractor_object_query: 'fetch small, short pvc pipe'}
+  target_object_name: weight_2
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: fetch short metal}
+  target_object_name: cone_2
+  target_query: get an object that is minor
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch short
+      tupperware}
+  target_object_name: tin_poker
+  target_query: bring an object that is prominent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: fetch tall wooden
+      block}
+  target_object_name: egg_plastic_wrap
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch tall weight container}
+  target_object_name: pvc_2
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_plastic_wrap, distractor_object_query: fetch small egg}
+  target_object_name: pasta_macaroni
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: fetch small
+      small stuffed animal}
+  target_object_name: pvc_2
+  target_query: get an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch large, tall tin'}
+  target_object_name: smallstuffedanimal_chick
+  target_query: bring an object that is little
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch big,
+      large big stuffed animal'}
+  target_object_name: noodle_2
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch large, tall tin'}
+  target_object_name: noodle_2
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: 'fetch small,
+      short egg coloring cup'}
+  target_object_name: cone_3
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: fetch short tupperware}
+  target_object_name: basket_green
+  target_query: get an object that is magnanimous
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch big basket}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch short
+      metal}
+  target_object_name: bottle_green
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: fetch short tupperware}
+  target_object_name: bottle_green
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      small small stuffed animal}
+  target_object_name: timber_semicircle
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_3, distractor_object_query: fetch short pvc pipe}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_rough_styrofoam, distractor_object_query: fetch small
+      egg}
+  target_object_name: timber_semicircle
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: 'fetch large, tall pasta'}
+  target_object_name: metal_mix_covered_cup
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_3, distractor_object_query: fetch short pvc pipe}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch short
+      metal}
+  target_object_name: egg_rough_styrofoam
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: fetch tall weight container}
+  target_object_name: eggcoloringcup_orange
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_rough_styrofoam, distractor_object_query: fetch small
+      egg}
+  target_object_name: pvc_3
+  target_query: bring an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: fetch tall weight container}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get an object that is pocket-sized
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch big basket}
+  target_object_name: pasta_penne
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_3, distractor_object_query: fetch tall cone}
+  target_object_name: bigstuffedanimal_frog
+  target_query: fetch an object that is big
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: fetch tall weight container}
+  target_object_name: pasta_penne
+  target_query: bring an object that is prominent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: 'fetch large, tall pasta'}
+  target_object_name: egg_rough_styrofoam
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: fetch tall weight container}
+  target_object_name: tupperware_marbles
+  target_query: get an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      small small stuffed animal}
+  target_object_name: bottle_green
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: fetch short metal}
+  target_object_name: cone_4
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch large basket}
+  target_object_name: can_red_bull_small
+  target_query: bring an object that is little
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: fetch tall noodle}
+  target_object_name: pvc_4
+  target_query: fetch an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: fetch small
+      egg}
+  target_object_name: basket_handle
+  target_query: fetch an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: fetch tall bottle}
+  target_object_name: basket_handle
+  target_query: fetch an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: 'fetch large, short, wide
+      pvc pipe'}
+  target_object_name: cone_4
+  target_query: bring an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch small ball}
+  target_object_name: timber_square
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_square, distractor_object_query: fetch tall wooden
+      block}
+  target_object_name: tupperware_pasta
+  target_query: bring an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch large basket}
+  target_object_name: weight_4
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snowman, distractor_object_query: 'fetch small, short
+      tin'}
+  target_object_name: pvc_4
+  target_query: get an object that is broad
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: fetch short tupperware}
+  target_object_name: egg_smooth_styrofoam
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch small
+      small stuffed animal}
+  target_object_name: eggcoloringcup_pink
+  target_query: get an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snowman, distractor_object_query: 'fetch small, short
+      tin'}
+  target_object_name: timber_square
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_small, distractor_object_query: fetch small can}
+  target_object_name: pasta_pipette
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: fetch
+      big big stuffed animal}
+  target_object_name: smallstuffedanimal_moose
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch large, tall
+      pasta'}
+  target_object_name: tupperware_pasta
+  target_query: fetch an object that is short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: fetch small
+      egg}
+  target_object_name: timber_square
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: fetch small
+      egg}
+  target_object_name: weight_4
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch large, tall
+      pasta'}
+  target_object_name: smallstuffedanimal_moose
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: fetch tall bottle}
+  target_object_name: egg_smooth_styrofoam
+  target_query: get an object that is little
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch large basket}
+  target_object_name: egg_wood
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: 'fetch big, tall noodle'}
+  target_object_name: eggcoloringcup_yellow
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: fetch small ball}
+  target_object_name: weight_5
+  target_query: get an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_5, distractor_object_query: 'fetch big, tall cone'}
+  target_object_name: can_starbucks
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: fetch small ball}
+  target_object_name: pasta_rotini
+  target_query: get an object that is prominent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_wood, distractor_object_query: fetch small egg}
+  target_object_name: cone_5
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_tea, distractor_object_query: 'fetch small, short, wide
+      tin'}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: get an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_5, distractor_object_query: 'fetch large, short, wide
+      pvc pipe'}
+  target_object_name: can_starbucks
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_thermos, distractor_object_query: fetch tall metal}
+  target_object_name: egg_wood
+  target_query: get an object that is minuscule
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: 'fetch small,
+      short egg coloring cup'}
+  target_object_name: basket_semicircle
+  target_query: bring an object that is prominent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_tea, distractor_object_query: 'fetch small, short, wide
+      tin'}
+  target_object_name: pvc_5
+  target_query: get an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: 'fetch big, tall noodle'}
+  target_object_name: smallstuffedanimal_otter
+  target_query: get an object that is minor
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_tea, distractor_object_query: 'fetch small, short, wide
+      tin'}
+  target_object_name: basket_semicircle
+  target_query: bring an object that is prominent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_squiggle, distractor_object_query: fetch tall wooden
+      block}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: fetch an object that is big
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: fetch tall weight container}
+  target_object_name: cone_5
+  target_query: get an object that is large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_tea, distractor_object_query: 'fetch small, short, wide
+      tin'}
+  target_object_name: noodle_5
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_tea, distractor_object_query: 'fetch small, short, wide
+      tin'}
+  target_object_name: noodle_5
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_rotini, distractor_object_query: 'fetch large, tall
+      pasta'}
+  target_object_name: egg_wood
+  target_query: fetch an object that is small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: fetch small ball}
+  target_object_name: weight_5
+  target_query: fetch an object that is tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: fetch tall weight container}
+  target_object_name: tupperware_rice
+  target_query: fetch an object that is short
+  target_sound_behavior: null

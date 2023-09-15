@@ -1,0 +1,45 @@
+cy101:
+  barrett:
+    joints:
+      - joint_1
+      - joint_2
+      - joint_3
+      - joint_4
+      - joint_5
+      - joint_6
+      - joint_7
+
+    behaviors:
+      - crush
+      - grasp
+      - hold
+      - lift_slow
+      # - look  # no audio and haptic
+      - low_drop
+      - poke
+      - push
+      - shake
+      - tap
+
+    # Used for creating dataset module:
+    modalities_fps:
+      # modality: Hz (0 Hz will use all frames)
+      audio: 0  # Hz is not used for audio
+      haptic: 50
+      # image: 0  # Hz is not used for image
+      video: 10
+      text: 0  # Hz is not used for text
+    
+    # Used for creating models for modalities:
+    settings:
+      setting1:
+        # modality: True for training, False for no training
+        audio: False
+        haptic: True
+        video: False
+        text: False
+      setting2:
+        audio: False
+        haptic: True
+        video: False
+        text: False

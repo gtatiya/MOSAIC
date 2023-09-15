@@ -1,0 +1,587 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch empty, closed
+      bottle'}
+  target_object_name: cannedfood_chili
+  target_query: get an object that is total
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_pokemon, distractor_object_query: 'fetch empty, closed
+      tin'}
+  target_object_name: medicine_ampicillin
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch closed, full
+      pasta'}
+  target_object_name: cup_blue
+  target_query: get an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_blue, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: medicine_ampicillin
+  target_query: bring an object that is fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch closed, full
+      pasta'}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: cannedfood_chili
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: eggcoloringcup_blue
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_chili, distractor_object_query: 'fetch closed,
+      full canned food'}
+  target_object_name: cup_blue
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: 'fetch empty, closed weight
+      container'}
+  target_object_name: medicine_ampicillin
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch empty, open
+      basket'}
+  target_object_name: pasta_cremette
+  target_query: get an object that is unopen
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch closed, full
+      pasta'}
+  target_object_name: cup_blue
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_chili, distractor_object_query: 'fetch closed,
+      full canned food'}
+  target_object_name: eggcoloringcup_blue
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_coffee_beans, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: weight_1
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: medicine_ampicillin
+  target_query: get an object that is unopen
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: tupperware_coffee_beans
+  target_query: bring an object that is entire
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_chili, distractor_object_query: 'fetch closed,
+      full canned food'}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_coffee_beans, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: tin_pokemon
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch closed weight container}
+  target_object_name: eggcoloringcup_green
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_funnel, distractor_object_query: 'fetch empty, open
+      basket'}
+  target_object_name: bottle_google
+  target_query: bring an object that is shut
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_isu, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: pasta_macaroni
+  target_query: get an object that is fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_isu, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: medicine_aspirin
+  target_query: bring an object that is total
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: 'fetch
+      closed, full tupperware'}
+  target_object_name: basket_funnel
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: 'fetch empty, open can'}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: bring an object that is unopen
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_cowboy_cookout, distractor_object_query: 'fetch
+      closed, full canned food'}
+  target_object_name: bottle_google
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: eggcoloringcup_green
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: 'fetch
+      closed, full tupperware'}
+  target_object_name: basket_funnel
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: can_coke
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch empty, closed tin'}
+  target_object_name: eggcoloringcup_green
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch closed weight container}
+  target_object_name: cup_isu
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: 'fetch empty, open can'}
+  target_object_name: tupperware_ground_coffee
+  target_query: bring an object that is unopen
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_green, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: 'fetch closed, full
+      pasta'}
+  target_object_name: tin_poker
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch closed weight container}
+  target_object_name: cup_isu
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_green, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: pasta_macaroni
+  target_query: get an object that is shut
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: 'fetch empty, open can'}
+  target_object_name: tin_poker
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: 'fetch empty, open can'}
+  target_object_name: metal_food_can
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_funnel, distractor_object_query: 'fetch empty, open
+      basket'}
+  target_object_name: bottle_google
+  target_query: get an object that is shut
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: 'fetch empty, open
+      basket'}
+  target_object_name: pasta_penne
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: 'fetch closed, full
+      pasta'}
+  target_object_name: basket_green
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: bottle_green
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      closed, full medicine'}
+  target_object_name: basket_green
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_metal, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      closed, full medicine'}
+  target_object_name: cup_metal
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: 'fetch empty, open
+      basket'}
+  target_object_name: tupperware_marbles
+  target_query: get an object that is total
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: 'fetch closed, full
+      canned food'}
+  target_object_name: metal_mix_covered_cup
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: tin_snack_depot
+  target_query: bring an object that is shut
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_metal, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: weight_3
+  target_query: get an object that is total
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_large, distractor_object_query: 'fetch empty,
+      open can'}
+  target_object_name: weight_3
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_metal, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: pasta_penne
+  target_query: get an object that is fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: 'fetch closed, full
+      canned food'}
+  target_object_name: basket_green
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: 'fetch closed, full
+      canned food'}
+  target_object_name: metal_mix_covered_cup
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      closed, full medicine'}
+  target_object_name: basket_green
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: pasta_penne
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: 'fetch empty,
+      open metal'}
+  target_object_name: cannedfood_soup
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snack_depot, distractor_object_query: 'fetch empty, closed
+      tin'}
+  target_object_name: cup_metal
+  target_query: bring an object that is unfold
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: can_red_bull_small, distractor_object_query: 'fetch empty,
+      open can'}
+  target_object_name: medicine_calcium
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: 'fetch empty, open
+      metal'}
+  target_object_name: bottle_red
+  target_query: get an object that is fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: 'fetch empty, open
+      cup'}
+  target_object_name: bottle_red
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: eggcoloringcup_pink
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: eggcoloringcup_pink
+  target_query: get an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: 'fetch empty, open
+      basket'}
+  target_object_name: pasta_pipette
+  target_query: bring an object that is shut
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: bottle_red
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: basket_handle
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: pasta_pipette
+  target_query: get an object that is fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: cannedfood_tomato_paste
+  target_query: bring an object that is entire
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: cannedfood_tomato_paste
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_small, distractor_object_query: 'fetch empty,
+      open can'}
+  target_object_name: weight_4
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: cup_paper_green
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: can_red_bull_small
+  target_query: get an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: basket_handle
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: eggcoloringcup_pink
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: 'fetch empty, open
+      metal'}
+  target_object_name: cannedfood_tomato_paste
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: 'fetch closed,
+      full tupperware'}
+  target_object_name: tin_snowman
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomato_paste, distractor_object_query: 'fetch closed,
+      full canned food'}
+  target_object_name: cup_paper_green
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: basket_handle
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: 'fetch empty, open
+      can'}
+  target_object_name: medicine_flaxseed_oil
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: 'fetch empty, open
+      can'}
+  target_object_name: weight_5
+  target_query: get an object that is fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: 'fetch empty,
+      open basket'}
+  target_object_name: medicine_flaxseed_oil
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_yellow, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: tin_tea
+  target_query: bring an object that is shut
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: 'fetch empty,
+      open basket'}
+  target_object_name: medicine_flaxseed_oil
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: 'fetch empty, open
+      can'}
+  target_object_name: tin_tea
+  target_query: get an object that is shut
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch empty, closed
+      bottle'}
+  target_object_name: tupperware_rice
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_flaxseed_oil, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: metal_thermos
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: 'fetch empty,
+      open egg coloring cup'}
+  target_object_name: cannedfood_tomatoes
+  target_query: fetch an object that is closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_rotini, distractor_object_query: 'fetch closed, full
+      pasta'}
+  target_object_name: basket_semicircle
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch empty, closed
+      bottle'}
+  target_object_name: basket_semicircle
+  target_query: get an object that is unfold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_flaxseed_oil, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: basket_semicircle
+  target_query: get an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: 'fetch empty, open
+      can'}
+  target_object_name: cannedfood_tomatoes
+  target_query: fetch an object that is full
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: 'fetch closed,
+      full canned food'}
+  target_object_name: tin_tea
+  target_query: bring an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_flaxseed_oil, distractor_object_query: 'fetch closed,
+      full medicine'}
+  target_object_name: bottle_sobe
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: cup_yellow
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: 'fetch closed,
+      full canned food'}
+  target_object_name: cup_yellow
+  target_query: fetch an object that is empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: 'fetch closed, full weight
+      container'}
+  target_object_name: basket_semicircle
+  target_query: fetch an object that is open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_thermos, distractor_object_query: 'fetch empty, closed
+      metal'}
+  target_object_name: cannedfood_tomatoes
+  target_query: get an object that is total
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_yellow, distractor_object_query: 'fetch empty, open cup'}
+  target_object_name: medicine_flaxseed_oil
+  target_query: get an object that is fold
+  target_sound_behavior: null

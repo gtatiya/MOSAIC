@@ -1,0 +1,530 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: bring a noodle}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch a big stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: get a metal}
+  target_object_name: pasta_cremette
+  target_query: get a pasta
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch a ball}
+  target_object_name: noodle_1
+  target_query: fetch a noodle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: fetch a basket}
+  target_object_name: medicine_ampicillin
+  target_query: bring a pills
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: bring a wooden block}
+  target_object_name: can_arizona
+  target_query: bring a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch a ball}
+  target_object_name: bottle_fuse
+  target_query: bring a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch a medicine}
+  target_object_name: tin_pokemon
+  target_query: fetch a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: bring a ball}
+  target_object_name: bottle_fuse
+  target_query: get a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_1, distractor_object_query: fetch a pvc pipe}
+  target_object_name: eggcoloringcup_blue
+  target_query: bring a egg coloring cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch a weight container}
+  target_object_name: egg_cardboard
+  target_query: bring a egg
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch a metal}
+  target_object_name: tin_pokemon
+  target_query: fetch a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch a metal}
+  target_object_name: cannedfood_chili
+  target_query: fetch a canned food
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: bring a
+      pocket-sized stuffed animal}
+  target_object_name: weight_1
+  target_query: get a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: get a egg}
+  target_object_name: cannedfood_chili
+  target_query: fetch a canned food
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: bring a wooden block}
+  target_object_name: cone_1
+  target_query: bring a cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_1, distractor_object_query: bring a pvc pipe}
+  target_object_name: can_arizona
+  target_query: bring a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: get a basket}
+  target_object_name: weight_1
+  target_query: fetch a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch a ball}
+  target_object_name: can_arizona
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: get a egg}
+  target_object_name: bottle_fuse
+  target_query: bring a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: bring a egg}
+  target_object_name: tin_pokemon
+  target_query: bring a tin
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: tin_poker, distractor_object_query: get a tin}
+  target_object_name: medicine_aspirin
+  target_query: get a drug
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: get a metal}
+  target_object_name: tin_poker
+  target_query: fetch a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: bring a wooden
+      block}
+  target_object_name: basket_funnel
+  target_query: fetch a basket
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: bring a can}
+  target_object_name: pvc_2
+  target_query: get a pvc pipe
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: bring a pills}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: fetch a big stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: get a prominent
+      stuffed animal}
+  target_object_name: weight_2
+  target_query: bring a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_basket, distractor_object_query: get a ball}
+  target_object_name: cone_2
+  target_query: fetch a cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: get a wooden block}
+  target_object_name: cone_2
+  target_query: fetch a cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_2, distractor_object_query: bring a pvc pipe}
+  target_object_name: pasta_macaroni
+  target_query: fetch a pasta
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_2, distractor_object_query: get a cone}
+  target_object_name: can_coke
+  target_query: bring a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: get a pills}
+  target_object_name: noodle_2
+  target_query: get a noodle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_2, distractor_object_query: get a cone}
+  target_object_name: cup_isu
+  target_query: fetch a cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch a noodle}
+  target_object_name: timber_rectangle
+  target_query: fetch a wooden block
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_2, distractor_object_query: fetch a cone}
+  target_object_name: can_coke
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: fetch a wooden
+      block}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: bring a canned food
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_isu, distractor_object_query: fetch a cup}
+  target_object_name: ball_basket
+  target_query: fetch a ball
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_isu, distractor_object_query: fetch a cup}
+  target_object_name: timber_rectangle
+  target_query: get a wooden block
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_green, distractor_object_query: fetch a egg
+      coloring cup}
+  target_object_name: tin_poker
+  target_query: fetch a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_basket, distractor_object_query: fetch a ball}
+  target_object_name: pvc_2
+  target_query: fetch a pvc pipe
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: bring a
+      minor stuffed animal}
+  target_object_name: bottle_google
+  target_query: bring a bottle
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: bring a basket}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: fetch a small stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: fetch a bottle}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get a minor stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_semicircle, distractor_object_query: fetch a wooden
+      block}
+  target_object_name: basket_green
+  target_query: bring a basket
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch a metal}
+  target_object_name: pvc_3
+  target_query: fetch a pvc pipe
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: fetch a canned food}
+  target_object_name: noodle_3
+  target_query: get a noodle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch a big
+      stuffed animal}
+  target_object_name: cannedfood_soup
+  target_query: fetch a canned food
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: get a magnanimous
+      stuffed animal}
+  target_object_name: eggcoloringcup_orange
+  target_query: get a egg coloring cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: get
+      a minor stuffed animal}
+  target_object_name: egg_rough_styrofoam
+  target_query: bring a egg
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: get a tupperware}
+  target_object_name: bottle_green
+  target_query: fetch a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snack_depot, distractor_object_query: fetch a tin}
+  target_object_name: bottle_green
+  target_query: bring a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: get a bottle}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: fetch a small stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_3, distractor_object_query: fetch a cone}
+  target_object_name: bottle_green
+  target_query: get a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: get a tupperware}
+  target_object_name: tin_snack_depot
+  target_query: get a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: bring a metal}
+  target_object_name: weight_3
+  target_query: fetch a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_rough_styrofoam, distractor_object_query: fetch a egg}
+  target_object_name: eggcoloringcup_orange
+  target_query: fetch a egg coloring cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_semicircle, distractor_object_query: bring a wooden
+      block}
+  target_object_name: eggcoloringcup_orange
+  target_query: bring a egg coloring cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_rough_styrofoam, distractor_object_query: get a egg}
+  target_object_name: ball_blue
+  target_query: fetch a ball
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch a big
+      stuffed animal}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch a medicine
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: get a egg
+      coloring cup}
+  target_object_name: cup_metal
+  target_query: fetch a cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: fetch a bottle}
+  target_object_name: tin_snack_depot
+  target_query: fetch a tin
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: get a
+      magnanimous stuffed animal}
+  target_object_name: smallstuffedanimal_moose
+  target_query: get a minuscule stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: bring a pills}
+  target_object_name: metal_tea_jar
+  target_query: fetch a metal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: get a tupperware}
+  target_object_name: noodle_4
+  target_query: bring a noodle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: bring a weight container}
+  target_object_name: cone_4
+  target_query: bring a cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snowman, distractor_object_query: fetch a tin}
+  target_object_name: bottle_red
+  target_query: fetch a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: get a bottle}
+  target_object_name: pasta_pipette
+  target_query: fetch a pasta
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_square, distractor_object_query: get a wooden block}
+  target_object_name: cup_paper_green
+  target_query: bring a cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: fetch a metal}
+  target_object_name: eggcoloringcup_pink
+  target_query: fetch a egg coloring cup
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: bring a egg}
+  target_object_name: bottle_red
+  target_query: fetch a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: get a egg coloring
+      cup}
+  target_object_name: can_red_bull_small
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch a
+      small stuffed animal}
+  target_object_name: basket_handle
+  target_query: bring a basket
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: get a cup}
+  target_object_name: egg_smooth_styrofoam
+  target_query: fetch a egg
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch a basket}
+  target_object_name: bottle_red
+  target_query: get a bottle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_pipette, distractor_object_query: get a pasta}
+  target_object_name: can_red_bull_small
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_pipette, distractor_object_query: bring a pasta}
+  target_object_name: metal_tea_jar
+  target_query: fetch a metal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomato_paste, distractor_object_query: bring a
+      canned food}
+  target_object_name: weight_4
+  target_query: bring a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: get a egg coloring
+      cup}
+  target_object_name: basket_handle
+  target_query: fetch a basket
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: bring a
+      minor stuffed animal}
+  target_object_name: weight_4
+  target_query: fetch a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: get a little
+      stuffed animal}
+  target_object_name: noodle_4
+  target_query: fetch a noodle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: fetch a egg}
+  target_object_name: noodle_4
+  target_query: bring a noodle
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: pvc_5, distractor_object_query: get a pvc pipe}
+  target_object_name: weight_5
+  target_query: fetch a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: get a prominent
+      stuffed animal}
+  target_object_name: can_starbucks
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: fetch a ball}
+  target_object_name: can_starbucks
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: bring a weight container}
+  target_object_name: basket_semicircle
+  target_query: bring a basket
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: bring a can}
+  target_object_name: pvc_5
+  target_query: bring a pvc pipe
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_rotini, distractor_object_query: fetch a pasta}
+  target_object_name: cone_5
+  target_query: get a cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_rotini, distractor_object_query: fetch a pasta}
+  target_object_name: weight_5
+  target_query: bring a weight container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch a egg
+      coloring cup}
+  target_object_name: cone_5
+  target_query: bring a cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: get a canned
+      food}
+  target_object_name: tin_tea
+  target_query: fetch a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch a
+      small stuffed animal}
+  target_object_name: can_starbucks
+  target_query: fetch a can
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch a basket}
+  target_object_name: ball_yellow_purple
+  target_query: bring a ball
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: fetch a can}
+  target_object_name: noodle_5
+  target_query: get a noodle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_yellow, distractor_object_query: bring a cup}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: bring a prominent stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch a bottle}
+  target_object_name: smallstuffedanimal_otter
+  target_query: fetch a small stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: get a weight container}
+  target_object_name: tin_tea
+  target_query: fetch a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: bring a egg
+      coloring cup}
+  target_object_name: tupperware_rice
+  target_query: fetch a tupperware
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch a bottle}
+  target_object_name: smallstuffedanimal_otter
+  target_query: fetch a small stuffed animal
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_rotini, distractor_object_query: bring a pasta}
+  target_object_name: tin_tea
+  target_query: get a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_wood, distractor_object_query: get a egg}
+  target_object_name: tin_tea
+  target_query: get a tin
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_yellow, distractor_object_query: fetch a cup}
+  target_object_name: cone_5
+  target_query: get a cone
+  target_sound_behavior: null

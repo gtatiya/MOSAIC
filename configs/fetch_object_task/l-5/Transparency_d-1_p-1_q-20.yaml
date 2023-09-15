@@ -1,0 +1,587 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: metal_flower_cylinder
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: pvc_1
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: tin_pokemon
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: cone_1
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: egg_cardboard
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: egg_cardboard
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: egg_cardboard
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: metal_flower_cylinder
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: cannedfood_chili
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: bottle_fuse
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: basket_cylinder
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch opaque
+      small stuffed animal}
+  target_object_name: medicine_ampicillin
+  target_query: bring an object that is transparent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: pasta_cremette
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: ball_base
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: smallstuffedanimal_chick
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: noodle_2
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: cone_2
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: cup_isu
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: tupperware_ground_coffee
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: tupperware_ground_coffee
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: pasta_macaroni
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: egg_plastic_wrap
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: metal_food_can
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: smallstuffedanimal_chick
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: smallstuffedanimal_chick
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch opaque weight container}
+  target_object_name: bottle_google
+  target_query: fetch an object that is transparent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: cup_isu
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: egg_plastic_wrap
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: pvc_2
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: pasta_macaroni
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: fetch opaque
+      egg coloring cup}
+  target_object_name: bottle_green
+  target_query: get an object that is see-through
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: fetch opaque canned
+      food}
+  target_object_name: bottle_green
+  target_query: fetch an object that is transparent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: cup_metal
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: egg_rough_styrofoam
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: noodle_3
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: timber_semicircle
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: tupperware_marbles
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: egg_rough_styrofoam
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: noodle_3
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: cup_metal
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch see-through basket}
+  target_object_name: pvc_3
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: ball_blue
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent bottle'}
+  target_object_name: metal_mix_covered_cup
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: eggcoloringcup_pink
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: can_red_bull_small
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch transparent
+      ball}
+  target_object_name: noodle_4
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: tupperware_pasta
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: noodle_4
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: noodle_4
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch transparent
+      ball}
+  target_object_name: can_red_bull_small
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: cone_4
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: timber_square
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: fetch opaque pvc pipe}
+  target_object_name: basket_handle
+  target_query: fetch an object that is see-through
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch transparent
+      ball}
+  target_object_name: egg_smooth_styrofoam
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: tin_snowman
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_4, distractor_object_query: fetch opaque cone}
+  target_object_name: ball_transparent
+  target_query: bring an object that is transparent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: pvc_4
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: weight_4
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch transparent
+      ball}
+  target_object_name: weight_4
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch transparent
+      ball}
+  target_object_name: weight_4
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: fetch transparent
+      medicine}
+  target_object_name: smallstuffedanimal_moose
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: fetch opaque weight container}
+  target_object_name: ball_transparent
+  target_query: get an object that is transparent
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch opaque
+      egg coloring cup}
+  target_object_name: bottle_sobe
+  target_query: fetch an object that is translucent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: cone_5
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: pvc_5
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: pasta_rotini
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch translucent bottle}
+  target_object_name: cone_5
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: cone_5
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: cannedfood_tomatoes
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: cannedfood_tomatoes
+  target_query: get an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: smallstuffedanimal_otter
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch translucent bottle}
+  target_object_name: pasta_rotini
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: timber_squiggle
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch translucent bottle}
+  target_object_name: egg_wood
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: timber_squiggle
+  target_query: bring an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: fetch opaque weight container}
+  target_object_name: basket_semicircle
+  target_query: get an object that is see-through
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: tupperware_rice
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: cannedfood_tomatoes
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch opaque
+      egg coloring cup}
+  target_object_name: basket_semicircle
+  target_query: fetch an object that is see-through
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch see-through
+      basket}
+  target_object_name: pasta_rotini
+  target_query: fetch an object that is opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch translucent bottle}
+  target_object_name: egg_wood
+  target_query: bring an object that is opaque
+  target_sound_behavior: null

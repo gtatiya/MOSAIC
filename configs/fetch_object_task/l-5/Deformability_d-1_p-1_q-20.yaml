@@ -1,0 +1,551 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: weight_1
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: timber_pentagon
+  target_query: get an object that is stiff
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_pokemon, distractor_object_query: fetch rigid tin}
+  target_object_name: bigstuffedanimal_bear
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch deformable noodle}
+  target_object_name: pvc_1
+  target_query: bring an object that is stiff
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: fetch deformable cup}
+  target_object_name: tupperware_coffee_beans
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch rigid weight container}
+  target_object_name: bigstuffedanimal_bear
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch deformable noodle}
+  target_object_name: pvc_1
+  target_query: get an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: fetch deformable cup}
+  target_object_name: pvc_1
+  target_query: bring an object that is fixed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch rigid weight container}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_blue, distractor_object_query: fetch deformable
+      egg coloring cup}
+  target_object_name: weight_1
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: fetch deformable
+      pasta}
+  target_object_name: metal_flower_cylinder
+  target_query: get an object that is stiff
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: fetch rigid bottle}
+  target_object_name: pasta_cremette
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: fetch deformable
+      pasta}
+  target_object_name: timber_pentagon
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_blue, distractor_object_query: fetch deformable
+      egg coloring cup}
+  target_object_name: tupperware_coffee_beans
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch rigid
+      metal}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch rigid weight container}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch rigid
+      metal}
+  target_object_name: pasta_cremette
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch rigid ball}
+  target_object_name: cup_blue
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_base, distractor_object_query: fetch rigid ball}
+  target_object_name: pasta_cremette
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: cannedfood_chili
+  target_query: get an object that is stiff
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: metal_food_can
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: fetch rigid metal}
+  target_object_name: smallstuffedanimal_chick
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch rigid
+      tupperware}
+  target_object_name: smallstuffedanimal_chick
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: tin_poker
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: fetch rigid metal}
+  target_object_name: smallstuffedanimal_chick
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: bottle_google
+  target_query: bring an object that is stiff
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch deformable noodle}
+  target_object_name: weight_2
+  target_query: get an object that is inflexible
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch deformable noodle}
+  target_object_name: metal_food_can
+  target_query: get an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: pvc_2
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: fetch deformable
+      pasta}
+  target_object_name: timber_rectangle
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: timber_rectangle
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: fetch deformable
+      pasta}
+  target_object_name: tin_poker
+  target_query: get an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch deformable noodle}
+  target_object_name: bottle_google
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: bottle_google
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_food_can, distractor_object_query: fetch rigid metal}
+  target_object_name: smallstuffedanimal_chick
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch rigid weight container}
+  target_object_name: pasta_macaroni
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch deformable noodle}
+  target_object_name: pvc_2
+  target_query: get an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: pvc_2
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: fetch deformable
+      pasta}
+  target_object_name: bottle_google
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch rigid
+      tupperware}
+  target_object_name: pasta_macaroni
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: tin_snack_depot
+  target_query: bring an object that is stiff
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: fetch rigid canned
+      food}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch rigid
+      metal}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snack_depot, distractor_object_query: fetch rigid tin}
+  target_object_name: bigstuffedanimal_frog
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: fetch deformable
+      egg coloring cup}
+  target_object_name: weight_3
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: weight_3
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch deformable noodle}
+  target_object_name: metal_mix_covered_cup
+  target_query: get an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_blue, distractor_object_query: fetch rigid ball}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: fetch rigid weight container}
+  target_object_name: eggcoloringcup_orange
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch rigid
+      metal}
+  target_object_name: noodle_3
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: metal_mix_covered_cup
+  target_query: get an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: fetch deformable pasta}
+  target_object_name: bottle_green
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: fetch rigid canned
+      food}
+  target_object_name: noodle_3
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_3, distractor_object_query: fetch rigid weight container}
+  target_object_name: bigstuffedanimal_frog
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch deformable noodle}
+  target_object_name: cup_metal
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: fetch deformable pasta}
+  target_object_name: cup_metal
+  target_query: bring an object that is fixed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: fetch deformable
+      egg coloring cup}
+  target_object_name: cannedfood_soup
+  target_query: bring an object that is inflexible
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: cannedfood_soup
+  target_query: bring an object that is unbending
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch deformable noodle}
+  target_object_name: weight_3
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: fetch rigid tupperware}
+  target_object_name: noodle_3
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: fetch deformable
+      cup}
+  target_object_name: tupperware_pasta
+  target_query: bring an object that is inflexible
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: fetch rigid tupperware}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: fetch
+      deformable big stuffed animal}
+  target_object_name: ball_transparent
+  target_query: get an object that is brittle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: fetch rigid weight container}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: fetch rigid pvc pipe}
+  target_object_name: smallstuffedanimal_moose
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: fetch deformable noodle}
+  target_object_name: tin_snowman
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: tupperware_pasta
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: fetch deformable
+      cup}
+  target_object_name: metal_tea_jar
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: fetch rigid pvc pipe}
+  target_object_name: cup_paper_green
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: fetch rigid metal}
+  target_object_name: noodle_4
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch brittle ball}
+  target_object_name: metal_tea_jar
+  target_query: bring an object that is fixed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: fetch rigid tupperware}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: metal_tea_jar
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: fetch deformable
+      cup}
+  target_object_name: timber_square
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_square, distractor_object_query: fetch rigid wooden
+      block}
+  target_object_name: ball_transparent
+  target_query: get an object that is brittle
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: fetch brittle ball}
+  target_object_name: cup_paper_green
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: fetch rigid pvc pipe}
+  target_object_name: cup_paper_green
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: fetch rigid metal}
+  target_object_name: cup_paper_green
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: fetch rigid tupperware}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: tin_snowman
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: egg_wood, distractor_object_query: fetch rigid egg}
+  target_object_name: pasta_rotini
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: fetch deformable noodle}
+  target_object_name: timber_squiggle
+  target_query: get an object that is fixed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: tupperware_rice
+  target_query: bring an object that is stiff
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch deformable
+      egg coloring cup}
+  target_object_name: tupperware_rice
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_thermos, distractor_object_query: fetch rigid metal}
+  target_object_name: smallstuffedanimal_otter
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: fetch rigid
+      canned food}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_rotini, distractor_object_query: fetch deformable pasta}
+  target_object_name: egg_wood
+  target_query: bring an object that is inflexible
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_thermos, distractor_object_query: fetch rigid metal}
+  target_object_name: eggcoloringcup_yellow
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: metal_thermos
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: metal_thermos
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: cannedfood_tomatoes
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch rigid bottle}
+  target_object_name: pasta_rotini
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_thermos, distractor_object_query: fetch rigid metal}
+  target_object_name: pasta_rotini
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: fetch deformable noodle}
+  target_object_name: tupperware_rice
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: fetch rigid weight container}
+  target_object_name: smallstuffedanimal_otter
+  target_query: fetch an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: fetch deformable noodle}
+  target_object_name: timber_squiggle
+  target_query: get an object that is fixed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_5, distractor_object_query: fetch rigid pvc pipe}
+  target_object_name: pasta_rotini
+  target_query: bring an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: fetch rigid bottle}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: get an object that is deformable
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: metal_thermos
+  target_query: fetch an object that is rigid
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: fetch rigid weight container}
+  target_object_name: eggcoloringcup_yellow
+  target_query: get an object that is deformable
+  target_sound_behavior: null

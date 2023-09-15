@@ -1,0 +1,565 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: cannedfood_chili, distractor_object_query: 'fetch red, multicolored,
+      yellow canned food'}
+  target_object_name: noodle_1
+  target_query: bring an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch orange
+      medicine}
+  target_object_name: noodle_1
+  target_query: bring an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_blue, distractor_object_query: fetch blue egg
+      coloring cup}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: get an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch red, pink, multicolored,
+      purple bottle'}
+  target_object_name: eggcoloringcup_blue
+  target_query: fetch an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: can_arizona
+  target_query: fetch an object that is multicolored
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: medicine_ampicillin
+  target_query: fetch an object that is orange
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch orange
+      medicine}
+  target_object_name: cone_1
+  target_query: get an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch brown
+      big stuffed animal}
+  target_object_name: weight_1
+  target_query: fetch an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch multicolored,
+      green pasta'}
+  target_object_name: basket_cylinder
+  target_query: get an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_coffee_beans, distractor_object_query: fetch red
+      tupperware}
+  target_object_name: medicine_ampicillin
+  target_query: get an object that is orange
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch brown, yellow
+      basket'}
+  target_object_name: weight_1
+  target_query: fetch an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_1, distractor_object_query: fetch green pvc pipe}
+  target_object_name: timber_pentagon
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch red, pink, multicolored,
+      purple bottle'}
+  target_object_name: cup_blue
+  target_query: get an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch red, pink, multicolored,
+      purple bottle'}
+  target_object_name: cup_blue
+  target_query: get an object that is snowy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: egg_cardboard
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch brown
+      big stuffed animal}
+  target_object_name: medicine_ampicillin
+  target_query: fetch an object that is orange
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch brown, yellow
+      basket'}
+  target_object_name: bottle_fuse
+  target_query: fetch an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_blue, distractor_object_query: fetch blue egg
+      coloring cup}
+  target_object_name: tin_pokemon
+  target_query: get an object that is varicoloured
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: fetch pink noodle}
+  target_object_name: ball_base
+  target_query: get an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: fetch orange
+      medicine}
+  target_object_name: cup_blue
+  target_query: fetch an object that is blue
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: medicine_aspirin, distractor_object_query: fetch white medicine}
+  target_object_name: noodle_2
+  target_query: get an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: 'fetch blue, yellow weight
+      container'}
+  target_object_name: can_coke
+  target_query: fetch an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: 'fetch blue, yellow weight
+      container'}
+  target_object_name: smallstuffedanimal_chick
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: tupperware_ground_coffee
+  target_query: fetch an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: fetch red can}
+  target_object_name: smallstuffedanimal_chick
+  target_query: bring an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch red
+      tupperware}
+  target_object_name: bottle_google
+  target_query: get an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch red
+      tupperware}
+  target_object_name: medicine_aspirin
+  target_query: get an object that is snowy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_plastic_wrap, distractor_object_query: fetch green egg}
+  target_object_name: timber_rectangle
+  target_query: bring an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: 'fetch blue, yellow weight
+      container'}
+  target_object_name: cone_2
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: fetch red
+      tupperware}
+  target_object_name: cone_2
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_2, distractor_object_query: fetch pink noodle}
+  target_object_name: can_coke
+  target_query: fetch an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch brown,
+      white big stuffed animal'}
+  target_object_name: cup_isu
+  target_query: bring an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_2, distractor_object_query: fetch green pvc pipe}
+  target_object_name: timber_rectangle
+  target_query: bring an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch brown,
+      white big stuffed animal'}
+  target_object_name: pvc_2
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch blue bottle}
+  target_object_name: tupperware_ground_coffee
+  target_query: get an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: 'fetch blue, multicolored
+      pasta'}
+  target_object_name: ball_basket
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch blue bottle}
+  target_object_name: pvc_2
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: 'fetch blue, multicolored
+      pasta'}
+  target_object_name: medicine_aspirin
+  target_query: bring an object that is snowy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: fetch blue bottle}
+  target_object_name: can_coke
+  target_query: fetch an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_2, distractor_object_query: fetch green pvc pipe}
+  target_object_name: smallstuffedanimal_chick
+  target_query: bring an object that is brown
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch green basket}
+  target_object_name: bigstuffedanimal_frog
+  target_query: bring an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snack_depot, distractor_object_query: 'fetch brown, multicolored
+      tin'}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_large, distractor_object_query: fetch blue can}
+  target_object_name: weight_3
+  target_query: get an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_rough_styrofoam, distractor_object_query: fetch green
+      egg}
+  target_object_name: pasta_penne
+  target_query: fetch an object that is multicolored
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_soup, distractor_object_query: fetch multicolored
+      canned food}
+  target_object_name: cone_3
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_large, distractor_object_query: fetch blue can}
+  target_object_name: cone_3
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: fetch orange
+      egg coloring cup}
+  target_object_name: egg_rough_styrofoam
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: 'fetch multicolored,
+      yellow pasta'}
+  target_object_name: egg_rough_styrofoam
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_marbles, distractor_object_query: fetch red tupperware}
+  target_object_name: eggcoloringcup_orange
+  target_query: fetch an object that is orange
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch green basket}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: fetch
+      green medicine}
+  target_object_name: noodle_3
+  target_query: get an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: fetch orange
+      egg coloring cup}
+  target_object_name: basket_green
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: fetch
+      green medicine}
+  target_object_name: tupperware_marbles
+  target_query: fetch an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: fetch pink noodle}
+  target_object_name: basket_green
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch green basket}
+  target_object_name: tupperware_marbles
+  target_query: bring an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_semicircle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: bigstuffedanimal_frog
+  target_query: get an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_snack_depot, distractor_object_query: 'fetch brown, multicolored
+      tin'}
+  target_object_name: medicine_bilberry_extract
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_green, distractor_object_query: fetch green bottle}
+  target_object_name: can_red_bull_large
+  target_query: get an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_semicircle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: cone_3
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_blue, distractor_object_query: fetch blue ball}
+  target_object_name: cone_3
+  target_query: bring an object that is green
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch brown basket}
+  target_object_name: weight_4
+  target_query: get an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch brown basket}
+  target_object_name: cone_4
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_4, distractor_object_query: fetch green cone}
+  target_object_name: can_red_bull_small
+  target_query: bring an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: fetch red tupperware}
+  target_object_name: cup_paper_green
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: fetch green pvc pipe}
+  target_object_name: tin_snowman
+  target_query: fetch an object that is blue
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_square, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: cone_4
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: fetch pink egg
+      coloring cup}
+  target_object_name: smallstuffedanimal_moose
+  target_query: bring an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch blue, yellow weight
+      container'}
+  target_object_name: timber_square
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch blue, yellow weight
+      container'}
+  target_object_name: cannedfood_tomato_paste
+  target_query: fetch an object that is multicolored
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: 'fetch green, white
+      cup'}
+  target_object_name: basket_handle
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_4, distractor_object_query: fetch green cone}
+  target_object_name: timber_square
+  target_query: get an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_pink, distractor_object_query: fetch pink egg
+      coloring cup}
+  target_object_name: pvc_4
+  target_query: get an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch brown basket}
+  target_object_name: egg_smooth_styrofoam
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_small, distractor_object_query: fetch blue can}
+  target_object_name: timber_square
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: fetch orange medicine}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: fetch an object that is pink
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: fetch red tupperware}
+  target_object_name: medicine_calcium
+  target_query: get an object that is orange
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_4, distractor_object_query: fetch green pvc pipe}
+  target_object_name: cannedfood_tomato_paste
+  target_query: fetch an object that is multicolored
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_moose, distractor_object_query: fetch brown
+      small stuffed animal}
+  target_object_name: pvc_4
+  target_query: get an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_small, distractor_object_query: fetch blue can}
+  target_object_name: medicine_calcium
+  target_query: get an object that is orange
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: fetch red bottle}
+  target_object_name: pasta_pipette
+  target_query: fetch an object that is multicolored
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: pvc_5, distractor_object_query: fetch green pvc pipe}
+  target_object_name: pasta_rotini
+  target_query: fetch an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_squiggle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: cup_yellow
+  target_query: fetch an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: 'fetch brown,
+      yellow basket'}
+  target_object_name: egg_wood
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: 'fetch blue, yellow weight
+      container'}
+  target_object_name: smallstuffedanimal_otter
+  target_query: get an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch yellow
+      egg coloring cup}
+  target_object_name: egg_wood
+  target_query: get an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: 'fetch brown,
+      yellow basket'}
+  target_object_name: cone_5
+  target_query: fetch an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_tan_dog, distractor_object_query: 'fetch
+      brown, yellow big stuffed animal'}
+  target_object_name: pvc_5
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_yellow, distractor_object_query: fetch yellow cup}
+  target_object_name: tupperware_rice
+  target_query: get an object that is red
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_5, distractor_object_query: fetch green pvc pipe}
+  target_object_name: basket_semicircle
+  target_query: get an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_squiggle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: ball_yellow_purple
+  target_query: bring an object that is varicoloured
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_wood, distractor_object_query: fetch green egg}
+  target_object_name: timber_squiggle
+  target_query: bring an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_5, distractor_object_query: fetch green cone}
+  target_object_name: ball_yellow_purple
+  target_query: bring an object that is purple
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch yellow
+      egg coloring cup}
+  target_object_name: bottle_sobe
+  target_query: bring an object that is purple
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_yellow, distractor_object_query: fetch yellow cup}
+  target_object_name: basket_semicircle
+  target_query: get an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_squiggle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: medicine_flaxseed_oil
+  target_query: fetch an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: 'fetch multicolored,
+      yellow, purple ball'}
+  target_object_name: pvc_5
+  target_query: bring an object that is green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_5, distractor_object_query: fetch green cone}
+  target_object_name: medicine_flaxseed_oil
+  target_query: fetch an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: 'fetch multicolored,
+      yellow, purple ball'}
+  target_object_name: smallstuffedanimal_otter
+  target_query: fetch an object that is brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_squiggle, distractor_object_query: fetch brown wooden
+      block}
+  target_object_name: eggcoloringcup_yellow
+  target_query: bring an object that is yellow
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_flaxseed_oil, distractor_object_query: fetch yellow
+      medicine}
+  target_object_name: weight_5
+  target_query: get an object that is blue
+  target_sound_behavior: null

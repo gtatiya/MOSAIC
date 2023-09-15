@@ -1,0 +1,760 @@
+fold_0:
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: 'fetch cylindrical, tall
+      weight container'}
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: fetch small
+      small stuffed animal}
+  target_object_name: tupperware_coffee_beans
+  target_query: get an object that is cylindrical and short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch deformable,
+      heavy pasta'}
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch rigid
+      metal}
+  target_object_name: smallstuffedanimal_bunny
+  target_query: bring an object that is deformable and light
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_ampicillin, distractor_object_query: 'fetch transparent,
+      small, short medicine'}
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch opaque, big
+      basket'}
+  target_object_name: ball_base
+  target_query: bring an object that is opaque and minor
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: 'fetch deformable, opaque
+      cup'}
+  - {distractor_object: noodle_1, distractor_object_query: 'fetch deformable, opaque
+      noodle'}
+  target_object_name: ball_base
+  target_query: fetch an object that is rigid and opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: fetch cardboard egg}
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch plastic, empty,
+      closed bottle'}
+  target_object_name: metal_flower_cylinder
+  target_query: fetch an object that is metal and empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_1, distractor_object_query: 'fetch foam, pink noodle'}
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch metal
+      metal}
+  target_object_name: pasta_cremette
+  target_query: fetch an object that is paper and green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: fetch light cup}
+  - {distractor_object: weight_1, distractor_object_query: 'fetch light, tall weight
+      container'}
+  target_object_name: pasta_cremette
+  target_query: bring an object that is hard and tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_cardboard, distractor_object_query: 'fetch opaque, green
+      egg'}
+  - {distractor_object: weight_1, distractor_object_query: 'fetch opaque, blue, yellow
+      weight container'}
+  target_object_name: cannedfood_chili
+  target_query: bring an object that is opaque and varicoloured
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tin_pokemon, distractor_object_query: 'fetch multicolored,
+      yellow, empty, closed tin'}
+  - {distractor_object: cone_1, distractor_object_query: fetch green cone}
+  target_object_name: cup_blue
+  target_query: get an object that is blue and empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: 'fetch opaque, cylindrical
+      weight container'}
+  - {distractor_object: ball_base, distractor_object_query: 'fetch opaque, round ball'}
+  target_object_name: timber_pentagon
+  target_query: fetch an object that is opaque and block
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: 'fetch opaque, hard weight
+      container'}
+  - {distractor_object: pvc_1, distractor_object_query: 'fetch opaque, hard pvc pipe'}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is opaque and soft
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch light, container
+      basket'}
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch light, container
+      bottle'}
+  target_object_name: noodle_1
+  target_query: fetch an object that is light and toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: fetch rigid weight container}
+  - {distractor_object: pvc_1, distractor_object_query: fetch rigid pvc pipe}
+  target_object_name: bigstuffedanimal_bear
+  target_query: fetch an object that is deformable and dull
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_bunny, distractor_object_query: 'fetch
+      pink, white, soft, squishy small stuffed animal'}
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch brown, yellow,
+      hard basket'}
+  target_object_name: tin_pokemon
+  target_query: get an object that is varicoloured and tough
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_1, distractor_object_query: 'fetch light, cylindrical
+      weight container'}
+  - {distractor_object: metal_flower_cylinder, distractor_object_query: fetch cylindrical
+      metal}
+  target_object_name: cone_1
+  target_query: bring an object that is light and cone
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_fuse, distractor_object_query: 'fetch plastic, tall
+      bottle'}
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch paper, small,
+      tall pasta'}
+  target_object_name: tin_pokemon
+  target_query: get an object that is metal and prominent
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: fetch block wooden
+      block}
+  - {distractor_object: pvc_1, distractor_object_query: 'fetch round, cylindrical
+      pvc pipe'}
+  target_object_name: tin_pokemon
+  target_query: get an object that is box and shiny
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_pentagon, distractor_object_query: 'fetch heavy, brown
+      wooden block'}
+  - {distractor_object: pasta_cremette, distractor_object_query: 'fetch heavy, multicolored,
+      green pasta'}
+  target_object_name: cone_1
+  target_query: get an object that is light and green
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_blue, distractor_object_query: 'fetch deformable, cylindrical
+      cup'}
+  - {distractor_object: noodle_1, distractor_object_query: 'fetch deformable, cylindrical
+      noodle'}
+  target_object_name: cannedfood_chili
+  target_query: bring an object that is unbending and cylindrical
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bear, distractor_object_query: fetch big
+      big stuffed animal}
+  - {distractor_object: basket_cylinder, distractor_object_query: 'fetch big, empty,
+      open basket'}
+  target_object_name: medicine_ampicillin
+  target_query: bring an object that is minor and shut
+  target_sound_behavior: null
+fold_1:
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: 'fetch light, closed weight
+      container'}
+  - {distractor_object: noodle_2, distractor_object_query: fetch light noodle}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: fetch an object that is heavy and closed
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch brown,
+      white, soft, squishy big stuffed animal'}
+  - {distractor_object: eggcoloringcup_green, distractor_object_query: fetch green
+      egg coloring cup}
+  target_object_name: tupperware_ground_coffee
+  target_query: bring an object that is red and tough
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: 'fetch aluminum, metal,
+      opaque can'}
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch plastic, see-through,
+      transparent bottle'}
+  target_object_name: egg_plastic_wrap
+  target_query: fetch an object that is plastic and opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_2, distractor_object_query: 'fetch styrofoam, light cone'}
+  - {distractor_object: metal_food_can, distractor_object_query: fetch metal metal}
+  target_object_name: can_coke
+  target_query: fetch an object that is aluminum and light
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_2, distractor_object_query: 'fetch opaque, green pvc pipe'}
+  - {distractor_object: can_coke, distractor_object_query: 'fetch opaque, red can'}
+  target_object_name: basket_funnel
+  target_query: fetch an object that is opaque and brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: 'fetch brown, hard
+      wooden block'}
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch brown,
+      white, soft, squishy big stuffed animal'}
+  target_object_name: bottle_google
+  target_query: fetch an object that is blue and hard
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_coke, distractor_object_query: fetch container can}
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch rigid, container
+      tin'}
+  target_object_name: bigstuffedanimal_bunny
+  target_query: bring an object that is deformable and plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_plastic_wrap, distractor_object_query: 'fetch opaque,
+      small egg'}
+  - {distractor_object: smallstuffedanimal_chick, distractor_object_query: 'fetch
+      opaque, small small stuffed animal'}
+  target_object_name: noodle_2
+  target_query: fetch an object that is opaque and short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: 'fetch opaque,
+      block, rectangular wooden block'}
+  - {distractor_object: can_coke, distractor_object_query: 'fetch opaque, cylindrical
+      can'}
+  target_object_name: ball_basket
+  target_query: fetch an object that is opaque and round
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_cowboy_cookout, distractor_object_query: 'fetch
+      opaque, multicolored canned food'}
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch opaque, blue, multicolored
+      tin'}
+  target_object_name: timber_rectangle
+  target_query: fetch an object that is opaque and brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_2, distractor_object_query: fetch styrofoam cone}
+  - {distractor_object: timber_rectangle, distractor_object_query: fetch wood wooden
+      block}
+  target_object_name: egg_plastic_wrap
+  target_query: bring an object that is plastic and shiny
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch deformable,
+      soft, squishy big stuffed animal'}
+  - {distractor_object: noodle_2, distractor_object_query: 'fetch deformable, soft
+      noodle'}
+  target_object_name: timber_rectangle
+  target_query: bring an object that is stiff and tough
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_macaroni, distractor_object_query: 'fetch opaque, rectangular,
+      box pasta'}
+  - {distractor_object: timber_rectangle, distractor_object_query: 'fetch opaque,
+      block, rectangular wooden block'}
+  target_object_name: cannedfood_cowboy_cookout
+  target_query: fetch an object that is opaque and cylindrical
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_rectangle, distractor_object_query: fetch heavy wooden
+      block}
+  - {distractor_object: pasta_macaroni, distractor_object_query: 'fetch heavy, closed,
+      full pasta'}
+  target_object_name: bottle_google
+  target_query: fetch an object that is light and empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_plastic_wrap, distractor_object_query: 'fetch opaque,
+      small egg'}
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch opaque, large,
+      tall tin'}
+  target_object_name: eggcoloringcup_green
+  target_query: bring an object that is opaque and short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_green, distractor_object_query: 'fetch opaque,
+      empty, open egg coloring cup'}
+  - {distractor_object: medicine_aspirin, distractor_object_query: 'fetch transparent,
+      closed, full medicine'}
+  target_object_name: bottle_google
+  target_query: get an object that is see-through and fold
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_google, distractor_object_query: 'fetch see-through,
+      transparent, short bottle'}
+  - {distractor_object: tin_poker, distractor_object_query: 'fetch opaque, large,
+      tall tin'}
+  target_object_name: egg_plastic_wrap
+  target_query: fetch an object that is opaque and small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_2, distractor_object_query: fetch tall weight container}
+  - {distractor_object: timber_rectangle, distractor_object_query: fetch tall wooden
+      block}
+  target_object_name: egg_plastic_wrap
+  target_query: get an object that is little and shiny
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_funnel, distractor_object_query: 'fetch big, hard basket'}
+  - {distractor_object: noodle_2, distractor_object_query: 'fetch short, soft noodle'}
+  target_object_name: pvc_2
+  target_query: bring an object that is short and concentrated
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_ground_coffee, distractor_object_query: 'fetch
+      heavy, red tupperware'}
+  - {distractor_object: bigstuffedanimal_bunny, distractor_object_query: 'fetch brown,
+      white big stuffed animal'}
+  target_object_name: can_coke
+  target_query: get an object that is light and red
+  target_sound_behavior: null
+fold_2:
+- distractor_objects:
+  - {distractor_object: pvc_3, distractor_object_query: fetch hard pvc pipe}
+  - {distractor_object: cup_metal, distractor_object_query: fetch hard cup}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get an object that is light and cushy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_large, distractor_object_query: fetch blue can}
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: 'fetch
+      brown, multicolored, soft, squishy small stuffed animal'}
+  target_object_name: bigstuffedanimal_frog
+  target_query: fetch an object that is yellow and squishy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_blue, distractor_object_query: 'fetch opaque, toy ball'}
+  - {distractor_object: basket_green, distractor_object_query: 'fetch see-through,
+      container basket'}
+  target_object_name: eggcoloringcup_orange
+  target_query: bring an object that is opaque and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_rough_styrofoam, distractor_object_query: fetch green
+      egg}
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      green, container medicine'}
+  target_object_name: eggcoloringcup_orange
+  target_query: get an object that is orange and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: 'fetch yellow,
+      green, big big stuffed animal'}
+  - {distractor_object: tupperware_marbles, distractor_object_query: 'fetch red, short
+      tupperware'}
+  target_object_name: egg_rough_styrofoam
+  target_query: fetch an object that is green and small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_semicircle, distractor_object_query: 'fetch heavy,
+      hard wooden block'}
+  - {distractor_object: tupperware_marbles, distractor_object_query: 'fetch heavy,
+      hard tupperware'}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: get an object that is light and cushy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_metal, distractor_object_query: fetch cylindrical cup}
+  - {distractor_object: timber_semicircle, distractor_object_query: 'fetch block,
+      tall wooden block'}
+  target_object_name: cone_3
+  target_query: fetch an object that is cone and tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_3, distractor_object_query: 'fetch foam, opaque noodle'}
+  - {distractor_object: timber_semicircle, distractor_object_query: 'fetch wood, opaque
+      wooden block'}
+  target_object_name: pvc_3
+  target_query: bring an object that is plastic and opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      small, short, closed, full medicine'}
+  - {distractor_object: pvc_3, distractor_object_query: fetch short pvc pipe}
+  target_object_name: can_red_bull_large
+  target_query: fetch an object that is large and open
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_orange, distractor_object_query: 'fetch deformable,
+      container egg coloring cup'}
+  - {distractor_object: noodle_3, distractor_object_query: 'fetch deformable, toy
+      noodle'}
+  target_object_name: ball_blue
+  target_query: get an object that is stiff and plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_mix_covered_cup, distractor_object_query: fetch container
+      metal}
+  - {distractor_object: can_red_bull_large, distractor_object_query: 'fetch blue,
+      container can'}
+  target_object_name: bigstuffedanimal_frog
+  target_query: fetch an object that is yellow and toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_3, distractor_object_query: 'fetch round, cylindrical,
+      short pvc pipe'}
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch cylindrical,
+      tall bottle'}
+  target_object_name: pasta_penne
+  target_query: fetch an object that is box and large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      heavy, cylindrical medicine'}
+  - {distractor_object: tupperware_marbles, distractor_object_query: 'fetch heavy,
+      cylindrical tupperware'}
+  target_object_name: can_red_bull_large
+  target_query: get an object that is light and cylindrical
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_metal, distractor_object_query: 'fetch rigid, container
+      cup'}
+  - {distractor_object: pasta_penne, distractor_object_query: 'fetch deformable, container
+      pasta'}
+  target_object_name: bigstuffedanimal_frog
+  target_query: get an object that is deformable and plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_semicircle, distractor_object_query: fetch heavy wooden
+      block}
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      heavy, container medicine'}
+  target_object_name: smallstuffedanimal_headband_bear
+  target_query: fetch an object that is light and toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_penne, distractor_object_query: 'fetch paper, opaque
+      pasta'}
+  - {distractor_object: cannedfood_soup, distractor_object_query: 'fetch aluminum,
+      metal, opaque canned food'}
+  target_object_name: timber_semicircle
+  target_query: bring an object that is wood and opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_green, distractor_object_query: fetch wicker basket}
+  - {distractor_object: bigstuffedanimal_frog, distractor_object_query: fetch deformable
+      big stuffed animal}
+  target_object_name: ball_blue
+  target_query: bring an object that is fixed and plastic
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_headband_bear, distractor_object_query: fetch
+      toy small stuffed animal}
+  - {distractor_object: ball_blue, distractor_object_query: 'fetch round, toy ball'}
+  target_object_name: cup_metal
+  target_query: fetch an object that is cylindrical and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_bilberry_extract, distractor_object_query: 'fetch
+      opaque, heavy medicine'}
+  - {distractor_object: bottle_green, distractor_object_query: 'fetch see-through,
+      transparent, light bottle'}
+  target_object_name: egg_rough_styrofoam
+  target_query: fetch an object that is opaque and light
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_3, distractor_object_query: 'fetch styrofoam, light cone'}
+  - {distractor_object: pvc_3, distractor_object_query: fetch plastic pvc pipe}
+  target_object_name: tin_snack_depot
+  target_query: bring an object that is metal and light
+  target_sound_behavior: null
+fold_3:
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch light, tall weight
+      container'}
+  - {distractor_object: timber_square, distractor_object_query: 'fetch heavy, tall
+      wooden block'}
+  target_object_name: egg_smooth_styrofoam
+  target_query: fetch an object that is light and small
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_transparent, distractor_object_query: 'fetch transparent,
+      light ball'}
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch see-through,
+      opaque, heavy pasta'}
+  target_object_name: cone_4
+  target_query: fetch an object that is opaque and light
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomato_paste, distractor_object_query: 'fetch aluminum,
+      metal, container canned food'}
+  - {distractor_object: medicine_calcium, distractor_object_query: 'fetch plastic,
+      container medicine'}
+  target_object_name: cup_paper_green
+  target_query: bring an object that is paper and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_4, distractor_object_query: 'fetch rigid, blue, yellow
+      weight container'}
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: 'fetch
+      deformable, pink big stuffed animal'}
+  target_object_name: timber_square
+  target_query: bring an object that is stiff and brown
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: fetch container
+      medicine}
+  - {distractor_object: weight_4, distractor_object_query: 'fetch rigid, container
+      weight container'}
+  target_object_name: bigstuffedanimal_pink_dog
+  target_query: fetch an object that is deformable and toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: metal_tea_jar, distractor_object_query: 'fetch cylindrical,
+      hard metal'}
+  - {distractor_object: pvc_4, distractor_object_query: 'fetch round, cylindrical,
+      hard pvc pipe'}
+  target_object_name: noodle_4
+  target_query: fetch an object that is cylindrical and soft
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_4, distractor_object_query: 'fetch foam, light noodle'}
+  - {distractor_object: can_red_bull_small, distractor_object_query: 'fetch aluminum,
+      metal, light can'}
+  target_object_name: pasta_pipette
+  target_query: get an object that is paper and backbreaking
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: fetch see-through
+      basket}
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch deformable,
+      see-through, opaque pasta'}
+  target_object_name: pvc_4
+  target_query: fetch an object that is rigid and opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_handle, distractor_object_query: 'fetch see-through,
+      container basket'}
+  - {distractor_object: ball_transparent, distractor_object_query: 'fetch transparent,
+      toy ball'}
+  target_object_name: metal_tea_jar
+  target_query: fetch an object that is opaque and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cup_paper_green, distractor_object_query: fetch paper cup}
+  - {distractor_object: cannedfood_tomato_paste, distractor_object_query: 'fetch aluminum,
+      metal canned food'}
+  target_object_name: basket_handle
+  target_query: bring an object that is wicker and grip
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_red_bull_small, distractor_object_query: 'fetch opaque,
+      container can'}
+  - {distractor_object: medicine_calcium, distractor_object_query: 'fetch transparent,
+      container medicine'}
+  target_object_name: smallstuffedanimal_moose
+  target_query: bring an object that is opaque and plaything
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch heavy, rectangular,
+      box pasta'}
+  - {distractor_object: cup_paper_green, distractor_object_query: 'fetch light, cylindrical
+      cup'}
+  target_object_name: ball_transparent
+  target_query: fetch an object that is light and round
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: 'fetch light, cylindrical
+      bottle'}
+  - {distractor_object: ball_transparent, distractor_object_query: 'fetch light, round
+      ball'}
+  target_object_name: medicine_calcium
+  target_query: bring an object that is weighty and cylindrical
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bigstuffedanimal_pink_dog, distractor_object_query: 'fetch
+      big, soft, squishy big stuffed animal'}
+  - {distractor_object: ball_transparent, distractor_object_query: 'fetch small, hard
+      ball'}
+  target_object_name: tupperware_pasta
+  target_query: get an object that is short and tough
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: medicine_calcium, distractor_object_query: 'fetch small, short,
+      closed, full medicine'}
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch large, tall,
+      closed, full pasta'}
+  target_object_name: eggcoloringcup_pink
+  target_query: bring an object that is short and empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_square, distractor_object_query: 'fetch rigid, opaque
+      wooden block'}
+  - {distractor_object: weight_4, distractor_object_query: 'fetch rigid, opaque weight
+      container'}
+  target_object_name: smallstuffedanimal_moose
+  target_query: bring an object that is deformable and opaque
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_pasta, distractor_object_query: 'fetch plastic,
+      short tupperware'}
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: 'fetch styrofoam,
+      small egg'}
+  target_object_name: basket_handle
+  target_query: fetch an object that is wicker and large
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: egg_smooth_styrofoam, distractor_object_query: fetch green
+      egg}
+  - {distractor_object: medicine_calcium, distractor_object_query: fetch orange medicine}
+  target_object_name: cup_paper_green
+  target_query: fetch an object that is deformable and white
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_red, distractor_object_query: fetch tall bottle}
+  - {distractor_object: metal_tea_jar, distractor_object_query: 'fetch short, shiny
+      metal'}
+  target_object_name: medicine_calcium
+  target_query: get an object that is little and shiny
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: timber_square, distractor_object_query: 'fetch wood, block,
+      rectangular wooden block'}
+  - {distractor_object: pasta_pipette, distractor_object_query: 'fetch paper, rectangular,
+      box pasta'}
+  target_object_name: can_red_bull_small
+  target_query: bring an object that is aluminum and cylindrical
+  target_sound_behavior: null
+fold_4:
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: fetch large basket}
+  - {distractor_object: pvc_5, distractor_object_query: 'fetch rigid, large, short,
+      wide pvc pipe'}
+  target_object_name: weight_5
+  target_query: get an object that is unbending and tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: 'fetch big, tall, soft
+      noodle'}
+  - {distractor_object: cone_5, distractor_object_query: 'fetch big, tall cone'}
+  target_object_name: tin_tea
+  target_query: get an object that is short and tough
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch small
+      small stuffed animal}
+  - {distractor_object: ball_yellow_purple, distractor_object_query: 'fetch rubber,
+      small ball'}
+  target_object_name: tupperware_rice
+  target_query: get an object that is plastic and short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_rice, distractor_object_query: 'fetch opaque, short
+      tupperware'}
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch translucent,
+      tall bottle'}
+  target_object_name: basket_semicircle
+  target_query: get an object that is see-through and big
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_rice, distractor_object_query: 'fetch opaque, short
+      tupperware'}
+  - {distractor_object: can_starbucks, distractor_object_query: 'fetch opaque, small,
+      tall can'}
+  target_object_name: cone_5
+  target_query: fetch an object that is opaque and big
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: weight_5, distractor_object_query: 'fetch rigid, plastic weight
+      container'}
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch deformable
+      small stuffed animal}
+  target_object_name: cannedfood_tomatoes
+  target_query: get an object that is unbending and aluminum
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: fetch small ball}
+  - {distractor_object: timber_squiggle, distractor_object_query: 'fetch heavy, tall
+      wooden block'}
+  target_object_name: weight_5
+  target_query: bring an object that is light and tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: eggcoloringcup_yellow, distractor_object_query: fetch deformable
+      egg coloring cup}
+  - {distractor_object: pasta_rotini, distractor_object_query: fetch deformable pasta}
+  target_object_name: cannedfood_tomatoes
+  target_query: fetch an object that is rigid and hard
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: can_starbucks, distractor_object_query: 'fetch light, small,
+      tall can'}
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch light, tall bottle'}
+  target_object_name: timber_squiggle
+  target_query: fetch an object that is heavy and tall
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: noodle_5, distractor_object_query: fetch toy noodle}
+  - {distractor_object: tupperware_rice, distractor_object_query: 'fetch closed, full,
+      container tupperware'}
+  target_object_name: basket_semicircle
+  target_query: fetch an object that is open and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: 'fetch aluminum,
+      metal, heavy canned food'}
+  - {distractor_object: metal_thermos, distractor_object_query: fetch metal metal}
+  target_object_name: timber_squiggle
+  target_query: get an object that is wood and weighty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: 'fetch
+      opaque, toy small stuffed animal'}
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch translucent,
+      container bottle'}
+  target_object_name: eggcoloringcup_yellow
+  target_query: fetch an object that is opaque and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: cone_5, distractor_object_query: fetch green cone}
+  - {distractor_object: egg_wood, distractor_object_query: fetch green egg}
+  target_object_name: weight_5
+  target_query: bring an object that is blue and container
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: 'fetch opaque,
+      round ball'}
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch translucent,
+      cylindrical bottle'}
+  target_object_name: eggcoloringcup_yellow
+  target_query: fetch an object that is opaque and cylindrical
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: ball_yellow_purple, distractor_object_query: 'fetch round,
+      soft, hard ball'}
+  - {distractor_object: timber_squiggle, distractor_object_query: 'fetch block, rectangular,
+      hard wooden block'}
+  target_object_name: cannedfood_tomatoes
+  target_query: fetch an object that is cylindrical and hard
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: basket_semicircle, distractor_object_query: 'fetch see-through,
+      hard basket'}
+  - {distractor_object: noodle_5, distractor_object_query: 'fetch opaque, soft noodle'}
+  target_object_name: ball_yellow_purple
+  target_query: get an object that is opaque and strong
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: tupperware_rice, distractor_object_query: 'fetch heavy, closed,
+      full tupperware'}
+  - {distractor_object: timber_squiggle, distractor_object_query: fetch heavy wooden
+      block}
+  target_object_name: can_starbucks
+  target_query: fetch an object that is light and empty
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: smallstuffedanimal_otter, distractor_object_query: fetch small
+      small stuffed animal}
+  - {distractor_object: cannedfood_tomatoes, distractor_object_query: fetch cylindrical
+      canned food}
+  target_object_name: eggcoloringcup_yellow
+  target_query: fetch an object that is round and short
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: bottle_sobe, distractor_object_query: 'fetch blue, purple,
+      container bottle'}
+  - {distractor_object: metal_thermos, distractor_object_query: fetch container metal}
+  target_object_name: bigstuffedanimal_tan_dog
+  target_query: fetch an object that is brown and toy
+  target_sound_behavior: null
+- distractor_objects:
+  - {distractor_object: pvc_5, distractor_object_query: 'fetch large, short, wide,
+      shiny pvc pipe'}
+  - {distractor_object: weight_5, distractor_object_query: fetch tall weight container}
+  target_object_name: smallstuffedanimal_otter
+  target_query: fetch an object that is small and dull
+  target_sound_behavior: null
