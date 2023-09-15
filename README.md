@@ -50,4 +50,4 @@ pip install -e .
 
 ### Fetch Object Results
 
-<img src="figs/FOTR.png" alt="drawing" width="500px"/>
+<img src="figs/FOTR.png" alt="drawing" width="400px"/>
